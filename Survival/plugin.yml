@@ -1,0 +1,5 @@
+name: Money-Survival
+main: com.Jongyeol.NameServer.Survival.Money.Survival.MainPlugin
+version: 1.0.0
+api-version: 1.13
+author: Jongyeol
